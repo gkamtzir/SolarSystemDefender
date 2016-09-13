@@ -1,5 +1,5 @@
 # SolarSystemDefender
-My first completed game. I built it using C++ and Allegro. The actula game has been uploaded on gamejolt.com.
+My first completed game. I built it using C++ and Allegro. The actul game has been uploaded on gamejolt.com.
 
 ------ MinGW/gcc compiler + allegro 5.0.10 ------
 g++ -c Background.cpp Bullet.cpp Comets.cpp Player.cpp main.cpp
